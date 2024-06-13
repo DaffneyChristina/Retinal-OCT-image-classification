@@ -1,4 +1,4 @@
-RETINAL OCT IMAGE SEGEMENTATION
+# RETINAL OCT IMAGE SEGMENTATION
 
 INTRODUCTION
 
@@ -20,9 +20,18 @@ Images are labeled as (disease)-(randomized patient ID)-(image number by this pa
 OUTPUT
 
 ![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/97819c30-55a6-42bc-88c4-399c5e24ef61)
-![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/b8b4ab6d-92ff-483c-8da9-0f68a5cc9ad2)![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/00b78566-8521-439c-a1f5-b07eae59c6cd)
-![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/be3b194c-6997-4f60-8c23-c26e59131bb2)![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/17daf0f8-8823-4758-87e5-1413f3eb9272)
-![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/b55d6a79-617b-4e38-9803-6ba10a5b3cd9)![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/7d4c3c6e-49b3-4618-ba65-23c74fadbf03)
+
+![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/b8b4ab6d-92ff-483c-8da9-0f68a5cc9ad2)
+
+![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/00b78566-8521-439c-a1f5-b07eae59c6cd)
+
+![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/be3b194c-6997-4f60-8c23-c26e59131bb2)
+
+![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/17daf0f8-8823-4758-87e5-1413f3eb9272)
+
+![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/b55d6a79-617b-4e38-9803-6ba10a5b3cd9)
+
+![image](https://github.com/DaffneyChristina/Retinal-OCT-image-classification/assets/107945264/7d4c3c6e-49b3-4618-ba65-23c74fadbf03)
 
 
 
